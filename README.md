@@ -1,1 +1,2 @@
 # Hyper-Market-Project
+The Hyper Market Dashboard project focuses on providing a comprehensive visual analysis of hypermarket performance using Microsoft Power BI. It examines sales across different time periods, product categories, and regions. It also enables the monitoring of profits, evaluation of branch performance, and analysis of customer preferences and purchasing patterns. These insights help identify the factors affecting sales, uncover opportunities to increase revenue, and improve planning and resource management efficiency.
